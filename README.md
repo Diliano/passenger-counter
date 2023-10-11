@@ -4,13 +4,13 @@ A passenger counter app built as part of the Scrimba Frontend Developer Career P
 
 ## Module Learning
 
-- script tag
-- variables
-- numbers
-- strings
-- console.log()
-- functions
-- The DOM
-- getElementById()
-- innerText
-- textContent
+-   script tag
+-   variables
+-   numbers
+-   strings
+-   console.log()
+-   functions
+-   The DOM
+-   getElementById()
+-   innerText
+-   textContent
